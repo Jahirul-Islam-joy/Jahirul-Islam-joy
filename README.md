@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jahirul-Islam-joy
 - 👀 I’m interested in making project.
-- 🌱 I’m currently learning PHP 
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Via facebook : Joy Johirul
 
